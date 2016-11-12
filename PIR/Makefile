@@ -11,7 +11,7 @@ AVRDUDE_CONF= /usr/share/arduino/hardware/tools/avrdude.conf
 
 ### PROJECT_DIR
 ### This is the path to where you have created/cloned your project
-PROJECT_DIR       = $(HOME)/sensors
+PROJECT_DIR       = $(HOME)/sensors/PIR
 
 ### ARDMK_DIR
 ### Path to the Arduino-Makefile directory.
